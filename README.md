@@ -12,6 +12,6 @@ User Manual - UMI Group Ltd, 1991. "RT100 User Manual" - (Link Unavailable)
 
 Honors Thesis - Katherine Weber, 2001. "Teaching an old robot new tricks" - https://cardinalscholar.bsu.edu/handle/handle4/193039
 
-Research Paper - Micheal Fewless, George Slater, Steve Waldron, 2004. "Telerobotic Controller" - https://...
+Research Paper - Micheal Fewless, George Slater, Steve Waldron, 2004. "Telerobotic Controller" - https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2593&context=honors_theses
 
-"UMI Robot User &amp; Programmer's Manual" - Glenn Knight, 1999. - https://...
+"UMI Robot User &amp; Programmer's Manual" - Glenn Knight, 1999. - http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.453.2579
