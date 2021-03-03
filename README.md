@@ -10,6 +10,8 @@ Github Repository - Barnaby Shearer, 2014. "UMI RT100 Robot Arm Controller" - ht
 
 User Manual - UMI Group Ltd, 1991. "RT100 User Manual" - (Link Unavailable)
 
+iLab RT100 C library - http://ilab.usc.edu/sdoc/html/d0/dfc/classRT100.html
+
 Honors Thesis - Katherine Weber, 2001. "Teaching an old robot new tricks" - https://cardinalscholar.bsu.edu/handle/handle4/193039
 
 Research Paper - Micheal Fewless, George Slater, Steve Waldron, 2004. "Telerobotic Controller" - https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=2593&context=honors_theses
